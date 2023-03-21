@@ -14,7 +14,7 @@
 *{component-header}*
 
 The *couchbase:* component allows you to treat
-https://www.couchbase.com/[CouchBase] instances as a producer or consumer
+https://www.couchbase.com/[Couchbase] instances as a producer or consumer
 of messages.
 
 Maven users will need to add the following dependency to their `pom.xml`
